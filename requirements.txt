@@ -3,3 +3,8 @@ numpy
 pandas
 pydeck
 streamlit
+openmeteo-requests
+requests-cache
+retry-requests
+requests
+pytz
